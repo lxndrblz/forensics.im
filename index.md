@@ -11,8 +11,8 @@ page_sections:
     link_text: Digest Add-in
   - link: "#messages"
     link_text: Messages
-  - link: "#customize"
-    link_text: Customize
+  - link: "#calls"
+    link_text: Calls
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
