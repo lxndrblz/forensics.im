@@ -7,7 +7,7 @@ description: Forensics.im is an Autopsy Plugin, which allows parsing levelDB of 
   levelDB plugin, Forensics.im also parses the binary ldb files, which contain the
   majority of the entries and allows identifies individual entities, such as messages
   and contacts, and presents these in Autopsy's blackboard view.
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: www.forensics.im
 defaults:
 - scope:
