@@ -15,8 +15,6 @@ page_sections:
     link_text: Calls
   - link: "#meetings"
     link_text: Meetings
-  - link: "#blocks"
-    link_text: Blocks
   cta:
     url: https://github.com/lxndrblz/forensicsim
     button_text: Get the Plugin
