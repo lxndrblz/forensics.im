@@ -23,17 +23,27 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: forensics.im <br><strong>Autopsy Digest Module</strong>
+  content: Parse <em>levelDB</em> of modern Electron-based Instant Messenger Applications
+    like <em>Microsoft Teams</em>.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://github.com/lxndrblz/forensicsim
+    button_text: 'Get it on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  slug: functions
+  headline: 'The first Microsoft Teams Parser for Autopsy '
+  content: Forensics.im is an Autopsy Plugin, which allows parsing <em>levelDB</em>
+    of modern Electron-based Instant Messenger Applications like Microsoft Teams.
+    Unlike the existing <a href="https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Leveldb">levelDB
+    plugin</a>, Forensics.im also parses the binary <em>ldb</em> files, which contain
+    the majority of the entries and allows identifies individual entities, such as
+    messages and contacts, and presents these in Autopsy's blackboard view.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -56,16 +66,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: functions
-  headline: 'The first Microsoft Teams Parser for Autopsy '
-  content: Forensics.im is an Autopsy Plugin, which allows parsing <em>levelDB</em>
-    of modern Electron-based Instant Messenger Applications like Microsoft Teams.
-    Unlike the existing <a href="https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Leveldb">levelDB
-    plugin</a>, Forensics.im also parses the binary <em>ldb</em> files, which contain
-    the majority of the entries and allows identifies individual entities, such as
-    messages and contacts, and presents these in Autopsy's blackboard view.
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Scotland
