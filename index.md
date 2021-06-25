@@ -7,16 +7,10 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/06/25/default-monochrome.svg"
   navigation:
-  - link: "#functions"
+  - link: "#functionality"
     link_text: Functionality
-  - link: "#messages"
-    link_text: Messages
-  - link: "#calls"
-    link_text: Calls
-  - link: "#meetings"
-    link_text: Meetings
-  - link: "#contacts"
-    link_text: Contacts
+  - link: "#artefacts"
+    link_text: Artefacts
   cta:
     url: https://github.com/lxndrblz/forensicsim
     button_text: Get the Plugin
@@ -44,6 +38,11 @@ page_sections:
     messages and contacts, and presents these in Autopsy's blackboard view.
   slug: "#functionality"
   headline: The first Microsoft Teams Parser for Autopsy
+- template: 1-column-text
+  block: one-column-1
+  headline: Artefacts
+  slug: artefacts
+  content: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
