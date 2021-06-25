@@ -51,9 +51,7 @@ page_sections:
   col_3:
     headline: Contacts
     slug: contacts
-    content: <img src="/uploads/2021/06/25/contact.svg"><br><img src="/uploads/2021/06/25/contact-2.svg"
-      title="Recover Contacts" alt="recover contacts"><br>Recover contacts within
-      a tenant.
+    content: Recover contacts within a tenant.
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Scotland
