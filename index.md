@@ -31,8 +31,8 @@ page_sections:
     url: https://github.com/lxndrblz/forensicsim
     button_text: 'Get it on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: "/uploads/2021/06/25/digest.PNG"
+    alt_text: Autopsy Digest Module
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 1-column-text
   block: one-column-1
