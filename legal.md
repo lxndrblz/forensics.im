@@ -17,7 +17,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   content: 'Information in accordance with Section 5 TMG<br>Alexander Bilz<br>Christoph
-    von Schmid Str. 1889407<br>Dillingen<br>Germany<br><br><br>Contact Information<br>Telephone:
+    von Schmid Str. 18<br>89407 Dillingen<br>Germany<br><br><br>Contact Information<br>Telephone:
     09071-7749778<br>E-Mail: mail@alexbilz.com<br>Internet address: www.forensic.im<br><br>Disclaimer<br>Accountability
     for content<br>The contents of our pages have been created with the utmost care.
     However, we cannot guarantee the contents’ accuracy, completeness or topicality.
