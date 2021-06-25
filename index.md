@@ -69,5 +69,19 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Scotland
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Messages
+    slug: messages
+    content: Recover messages.
+  col_2:
+    headline: Calls
+    slug: calls
+    content: Recover calls.
+  col_3:
+    headline: Contacts
+    slug: contacts
+    content: Recover contacts.
 
 ---
