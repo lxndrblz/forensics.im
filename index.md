@@ -13,8 +13,8 @@ page_sections:
     link_text: Messages
   - link: "#calls"
     link_text: Calls
-  - link: "#responsive"
-    link_text: Responsive
+  - link: "#meetings"
+    link_text: Meetings
   - link: "#blocks"
     link_text: Blocks
   cta:
