@@ -9,14 +9,14 @@ page_sections:
   navigation:
   - link: "#functions"
     link_text: Functionality
-  - link: "#digest"
-    link_text: Digest Add-in
   - link: "#messages"
     link_text: Messages
   - link: "#calls"
     link_text: Calls
   - link: "#meetings"
     link_text: Meetings
+  - link: "#contacts"
+    link_text: Contacts
   cta:
     url: https://github.com/lxndrblz/forensicsim
     button_text: Get the Plugin
