@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "#digest"
     link_text: Digest Add-in
-  - link: "#swap"
-    link_text: Swap
+  - link: "#messages"
+    link_text: Messages
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
