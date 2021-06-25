@@ -33,7 +33,7 @@ page_sections:
   image:
     image: "/uploads/2021/06/25/digest.PNG"
     alt_text: Autopsy Digest Module
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: 1-column-text
   block: one-column-1
   slug: functions
