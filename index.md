@@ -30,9 +30,9 @@ page_sections:
   background_image: ''
 - template: 1-column-text
   block: one-column-1
-  content: Forensics.im is an Autopsy Plugin, which allows parsing <em>levelDB</em>
-    of modern Electron-based Instant Messenger Applications like Microsoft Teams.
-    Unlike the existing <a href="https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Leveldb">levelDB
+  content: <em>forensics.im</em> is an <a href="https://www.autopsy.com/" title="Autopsy">Autopsy</a>
+    Plugin, which allows parsing <em>levelDB</em> of modern Electron-based Instant
+    Messenger Applications like Microsoft Teams. Unlike the existing <a href="https://github.com/markmckinnon/Autopsy-Plugins/tree/master/Leveldb">levelDB
     plugin</a>, Forensics.im also parses the binary <em>ldb</em> files, which contain
     the majority of the entries and allows identifies individual entities, such as
     messages and contacts, and presents these in Autopsy's blackboard view.
