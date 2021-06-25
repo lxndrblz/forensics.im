@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "#functionality"
     link_text: Functionality
-  - link: ''
-    link_text: ''
+  - link: Legal
+    link_text: "/legal/"
   cta:
     url: https://github.com/lxndrblz/forensicsim
     button_text: Get the Plugin
@@ -55,11 +55,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Scotland
-- template: 1-column-text
-  block: one-column-1
-  slug: legal
-  content: <a href="https://www.forensics.im/legal/" title="Legal Disclaimer">Legal
-    Disclaimer</a>
-  headline: Legal Information
 
 ---
