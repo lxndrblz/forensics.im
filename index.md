@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/06/25/default-monochrome.svg"
+  logo: "/uploads/2021/06/25/isolated-monochrome-black.svg"
   navigation:
   - link: "#functionality"
     link_text: Functionality
@@ -25,7 +25,7 @@ page_sections:
     url: https://github.com/lxndrblz/forensicsim
     button_text: 'Get it on GitHub '
   image:
-    image: ''
+    image: "/uploads/2021/06/25/default-monochrome-1.svg"
     alt_text: Autopsy Digest Module
   background_image: ''
 - template: 1-column-text
