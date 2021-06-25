@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "#functionality"
     link_text: Functionality
-  - link: "#artefacts"
-    link_text: Artefacts
+  - link: ''
+    link_text: ''
   cta:
     url: https://github.com/lxndrblz/forensicsim
     button_text: Get the Plugin
@@ -38,25 +38,20 @@ page_sections:
     messages and contacts, and presents these in Autopsy's blackboard view.
   slug: "#functionality"
   headline: The first Microsoft Teams Parser for Autopsy
-- template: 1-column-text
-  block: one-column-1
-  headline: Artefacts
-  slug: artefacts
-  content: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
     headline: Messages
     slug: messages
-    content: Recover messages.
+    content: Recover private chats, posts, comments and message reactions.
   col_2:
     headline: Calls
     slug: calls
-    content: Recover calls.
+    content: Recover video and voice calls.
   col_3:
     headline: Contacts
     slug: contacts
-    content: Recover contacts.
+    content: Recover contacts within a tenant.
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Scotland
