@@ -55,5 +55,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Scotland
+- template: 1-column-text
+  block: one-column-1
+  slug: legal
+  content: <a href="https://www.forensics.im/legal/" title="Legal Disclaimer">Legal
+    Disclaimer</a>
+  headline: Legal Information
 
 ---
