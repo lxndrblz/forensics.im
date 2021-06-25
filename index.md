@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "#functionality"
     link_text: Functionality
-  - link: Legal
-    link_text: "/legal/"
+  - link: "/legal/"
+    link_text: Imprint
   cta:
     url: https://github.com/lxndrblz/forensicsim
     button_text: Get the Plugin
