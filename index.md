@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2021/06/25/logo-2.png"
   navigation:
   - link: "/"
-    link_text: Ubuild
+    link_text: Digest Add-in
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
