@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/06/25/logo-2.png"
   navigation:
-  - link: "/"
+  - link: "#digest"
     link_text: Digest Add-in
   - link: "#swap"
     link_text: Swap
