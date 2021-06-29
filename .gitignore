@@ -1,11 +1,13 @@
-# Don't commit system files or dependencies
-*.DS_Store
-node_modules/
-vendor/bundle
+# Hugo default output directory
+/public/
+/resources/_gen/
 
-# Ensure Hugo builds aren't committed to Git
-public/
-site/public/
-dist/
-.tmp/
-_site/
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
