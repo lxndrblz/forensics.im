@@ -59,7 +59,7 @@ author = "Alexander Bilz"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2021 [Alexander Bilz](https://alexbilz.com) All Rights Reserved"
+copyright = "Copyright &copy; 2021 [Alexander Bilz](https://alexbilz.com)"
 
 # Preloader
 [params.preloader]

@@ -60,7 +60,7 @@ service:
       content : "Recover links to media files and hyperlinks from Microsoft Teams."
 
     # service item loop
-    - title : "Conctacts"
+    - title : "Contacts"
       icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
       content : "Recover phone contacts from Microsoft Teams."
     

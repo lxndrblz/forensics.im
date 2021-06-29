@@ -10,7 +10,7 @@
       <div class="col-lg-3">
         <!-- Copyright -->
         <p class="footer-copy">
-          <a href="imprint/">Imprint</a>
+          <a href="legal/">Legal</a>
         </p>
       </div>
     </div>
@@ -21,15 +21,6 @@
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .URL | absURL }}"></script>
 {{ end }}
-
-<!-- snipcart -->
-<script type="text/javascript" id="snipcart" src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
-  data-api-key="M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"></script>
-<script>
-  Snipcart.execute('registerLocale', 'en', {
-    powered_by: "{{ .Site.Params.Author }}"
-  });
-</script>
 
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
