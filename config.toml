@@ -35,19 +35,23 @@ paginate = 6
     
   [[menu.main]]
   name = "Functionality"
-  URL = "service"
+  URL = "#service"
   weight = 1
   
   [[menu.main]]
   name = "Demo"
-  URL = "device"
+  URL = "#device"
   weight = 2
   
   [[menu.main]]
   name = "Contact"
-  URL = "contact"
+  URL = "#contact"
   weight = 3
 
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog/"
+  weight = 4
 
 #################### default parameters ################################
 [params]
