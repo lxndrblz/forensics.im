@@ -14,7 +14,7 @@ description: "This post explains how the Microsoft Teams parser for Autopsy can 
 
 # taxonomies
 categories: ["Installation"]
-tags: ["Autopsy", "Microsoft", "Teams", "Parser", "Data Ingest"]
+tags: ["Autopsy", "Microsoft", "Teams", "Parser", "Data Ingest", "Forensics"]
 # post type
 type: "post"
 ---
@@ -29,9 +29,9 @@ To install the *Microsoft Teams* parser for *Autopsy*, please follow these steps
 * Copy the `ms_teams_parser.exe` and the `Forensicsim_Parser.py` to the `forensicsim` directory.
 * Restart *Autopsy* to activate the module.
 
-You can test verify that the module has installed successfully by performing the following steps:
+You can test verify that the module has been installed successfully by performing the following steps:
 * Start Autopsy.
 * Open/Create a case and add a source.
-* You will find the added modules under the menu Tools-> Run Ingest Modules -> Name of the Data Source.
+* You will find the added modules under the menu Tools -> Run Ingest Modules -> Name of the Data Source.
 
                 
