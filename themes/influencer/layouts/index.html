@@ -238,7 +238,7 @@
 
       <div class="col-lg-6 col-md-6">
         <div class="mt-5 mt-lg-0">
-          <img src="{{ .image | relURL }}" alt="" class="img-fluid w-100">
+          <iframe width="100%" height="400px" src="https://www.youtube.com/embed/RoRGu-S23tI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>
@@ -383,9 +383,7 @@
         <div class="contact-info-block text-center mb-4">
           <i class="{{ .icon }}"></i>
           <p class="mb-0">{{ .title | markdownify }}</p>
-          {{ range .list }}
-          <h5>{{ .listItem }}</h5>
-          {{ end }}
+          <a href="{{ .link }}"><h5>{{ .item }}</h5></a>
         </div>
       </div>
       {{ end }}

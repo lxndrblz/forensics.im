@@ -250,10 +250,10 @@ contact:
     # contact Item loop
     - title : "Email"
       icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
-      list:
-        - listItem : "mail@forensics.im"
+      item : "mail@forensics.im"
+      link : "mailto:mail@forensics.im"
 
     - title : "GitHub"
       icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-      list:
-        - listItem : "lxndrblz/forensicsim"
+      item : "lxndrblz/forensicsim"
+      link : "https://github.com/lxndrblz/forensicsim"

@@ -10,7 +10,7 @@ author : "Alexander Bilz"
 image: "images/blog/blog-2.jpg"
 
 # meta description
-description: "This post explains how communication aretefacts from the IndexedDB of the Microsoft Teams desktop client can be extracted and written into a structured format."
+description: "This post explains how communication artefacts from the IndexedDB of the Microsoft Teams desktop client can be extracted and written into a structured format."
 
 # taxonomies
 categories: ["Application Usage"]
@@ -18,7 +18,7 @@ tags: ["CLI","Windows", "Microsoft", "Teams 1.0", "Teams 2.0", "Parser", "Data I
 # post type
 type: "post"
 ---
-This post explains how forensically valueable communication aretefacts, such as messages, appointments, contacts and call logs can be extracted from the *Microsoft Teams* desktop client and be written into a structured format *JSON* file.
+This post explains how forensically valueable communication artefacts, such as messages, appointments, contacts and call logs can be extracted from the *Microsoft Teams* desktop client and be written into a structured format *JSON* file.
 
 The messages, message reactions, contacts and appointments can be extracted using the `ms_teams_parser.exe` available on [GitHub](https://github.com/lxndrblz/forensicsim/). The standalone parser enumerates the *IndexedDB* database and extracts all relevant records into a structured JSON file, which can be imported into another application.
 
