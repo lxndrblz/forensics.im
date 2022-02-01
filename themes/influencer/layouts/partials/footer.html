@@ -44,6 +44,10 @@
 </script>
 {{ end }}
 
+{{ if hugo.IsProduction }}
+<script async defer data-website-id="ba6e83e1-0c08-426a-bca5-871f011aa2ca" src="https://myumamianalytics.herokuapp.com/umami.js"></script>
+{{ end }}
+
 <!-- cookie -->
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
